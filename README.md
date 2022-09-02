@@ -5,6 +5,20 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1536148935331-408321065b18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
 
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchen2003&label=Profile%20views&color=0e75b6&style=flat" alt="Linfeng Chen" /> </p>
+
+<p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
+
+- 🔭 I’m currently working on **Medium.com clone**
+- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about **React**
+- 📫 How to reach me **linfengchen8888@gmail.com**
+- ⚡ Fun fact **I love vedio game DOTA2**
+- 🔭 Check out my Linkin Page: [Linkedin](https://www.linkedin.com/in/linfeng-chen-a73105244/)!
+- 👀 Check out my Portfolio Page: [Linfeng Chen](linfengchen.com)!
+
 ## Technology
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -33,18 +47,6 @@
 ![image](https://img.shields.io/badge/-Framer--Motion-purple)
 ![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchen2003&label=Profile%20views&color=0e75b6&style=flat" alt="Linfeng Chen" /> </p>
-
-<p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
-
-- 🔭 I’m currently working on **Medium.com clone**
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about **React**
-- 📫 How to reach me **linfengchen8888@gmail.com**
-- ⚡ Fun fact **I love vedio game DOTA2**
-- 🔭 Check out my Linkin Page: [Linkedin](https://www.linkedin.com/in/linfeng-chen-a73105244/)!
-- 👀 Check out my Portfolio Page: [Linfeng Chen](linfengchen.com)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
