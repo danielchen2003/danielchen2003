@@ -4,9 +4,6 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1536148935331-408321065b18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchen2003&label=Profile%20views&color=0e75b6&style=flat" alt="Linfeng Chen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
@@ -65,4 +62,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielchen2003&&theme=tokyonight" alt="danielchen2003" /></p>
 
-![snake gif](https://github.com/danielchen2003/gitactions/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/danielchen2003/gitactions/blob/output/github-contribution-grid-snake.gif)
