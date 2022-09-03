@@ -25,6 +25,7 @@
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
  </a>
 </p>
+
 - 🔭 I’m currently working on **Medium.com clone**
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about **React**
