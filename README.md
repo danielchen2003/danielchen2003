@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
 
+<a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+ </a>
+
 - 🔭 I’m currently working on **Medium.com clone**
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about **React**
