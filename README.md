@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchen2003&label=Profile%20views&color=0e75b6&style=flat" alt="Linfeng Chen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
-
+<p align="center">
 <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
  </a>
@@ -17,6 +17,14 @@
 <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
  </a>
+ <br />
+ <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
+ </a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+ </a>
+</p>
 - 🔭 I’m currently working on **Medium.com clone**
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about **React**
