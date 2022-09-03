@@ -14,7 +14,9 @@
   <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
  </a>
-
+<a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
+ </a>
 - 🔭 I’m currently working on **Medium.com clone**
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about **React**
