@@ -34,14 +34,12 @@
 - 🔭 Check out my Linkin Page: [Linkedin](https://www.linkedin.com/in/linfeng-chen-a73105244/)!
 - 👀 Check out my Portfolio Page: [Linfeng Chen](linfengchen.com)!
 
-![1662405744748](image/README/1662405744748.png)
-
 ## Technology
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)s
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -81,5 +79,9 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielchen2003&show_icons=true&locale=en&theme=tokyonight" alt="danielchen2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielchen2003&&theme=tokyonight" alt="danielchen2003" /></p>
+
+![1662405884608](image/README/1662405884608.png)
+
+![1662405744748](image/README/1662405744748.png)
 
 ![snake gif](https://github.com/danielchen2003/gitactions/blob/output/github-contribution-grid-snake.gif)
