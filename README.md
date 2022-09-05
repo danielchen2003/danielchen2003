@@ -4,9 +4,8 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1536148935331-408321065b18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielchen2003&label=Profile%20views&color=0e75b6&style=flat" alt="Linfeng Chen" /> </p>
+`` <p align="left">` `<a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /> ``</a>` `</p>`
 
-<p align="left"> <a href="https://twitter.com/Daniel02353300" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel02353300?logo=twitter&style=for-the-badge" alt="LinfengChen" /></a> </p>
 <p align="center">
 <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
@@ -33,6 +32,8 @@
 - ⚡ Fun fact **I love vedio game DOTA2**
 - 🔭 Check out my Linkin Page: [Linkedin](https://www.linkedin.com/in/linfeng-chen-a73105244/)!
 - 👀 Check out my Portfolio Page: [Linfeng Chen](linfengchen.com)!
+
+---
 
 ## Technology
 
