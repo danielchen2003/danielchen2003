@@ -34,6 +34,8 @@
 - 🔭 Check out my Linkin Page: [Linkedin](https://www.linkedin.com/in/linfeng-chen-a73105244/)!
 - 👀 Check out my Portfolio Page: [Linfeng Chen](linfengchen.com)!
 
+![1662405744748](image/README/1662405744748.png)
+
 ## Technology
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
