@@ -86,4 +86,4 @@
 
 ![1662405744748](image/README/1662405744748.png)
 
-![snake gif](https://github.com/danielchen2003/gitactions/blob/output/github-contribution-grid-snake.gif)
+
